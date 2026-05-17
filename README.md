@@ -1,6 +1,6 @@
 # FreightPower Search 
 
-> **Note:** This repository contains no proprietary code. It documents the design decisions, architecture, and engineering work completed during my internship at Schneider National (Summer 2026).
+> **Note:** This repository contains no proprietary code. It documents the design decisions, architecture, and engineering work completed at Schneider National.
 
 ---
 
