@@ -88,4 +88,3 @@ Usage data showed the majority of FreightPower sessions occurred on mobile. The 
 
 ---
 
-*Schneider National — Backend Engineering Intern, Summer 2026*
